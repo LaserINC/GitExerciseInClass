@@ -13,3 +13,4 @@ Dalalif
 Gladiator
 Fast 7
 Fast 8
+Slow
